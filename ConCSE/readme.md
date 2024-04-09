@@ -9,7 +9,9 @@ The contents of the folder are as follows :
 
 
 ### Getting Started ###
-
+'''
+pip install -r requirements.txt
+'''
 
 
 

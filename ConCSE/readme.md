@@ -7,6 +7,11 @@ The contents of the folder are as follows :
 2. Koglish_test: Koglish dataset validation experiment performed in Section 5.1.
 3. ConCSE_test: Experiments with our proposed ConCSE from Section 5.2.
 
+### Getting Started ###
+'''
+pip install -r requirements.txt
+'''
+
 
 
 

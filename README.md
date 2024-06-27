@@ -1,6 +1,6 @@
 ## (2024 ICPR)ConCSE: Unified Contrastive Learning and Augmentation for Code Switched Embeddings
 
-ConCSE's folder contains the code dataset for our paper \underline{ConCSE: Unified Contrastive Learning and Augmentation for Code Switched Embeddings}
+ConCSE's folder contains the code dataset for our paper [ConCSE : Unified Contrastive Learning and Augmentation for Code Switched Embeddings]
 
  contains ConCSE's code and Koglish dataset.
 
